@@ -15,7 +15,7 @@ Any suggestions : Write to me navdeep.s.dhindsa@gmail.com
 
 Next step is to improve it by trying other form of positivity matrix
 
-Result for Wilson loop and and first winding: 
+Result for Wilson loop and and second winding: 
 
 **W vs $\lambda$**
 
