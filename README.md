@@ -19,8 +19,16 @@ Result for Wilson loop and and second winding:
 
 **W vs $\lambda$**
 
-<img src="results//W1.png" width="600">
+<img src="results//W1.png" width="600"> 
 
 **$W_2$ vs $\lambda$**
 
 <img src="results//W2.png" width="600">
+
+**$W_3$ vs $\lambda$**
+
+<img src="results//W3.png" width="600">
+
+**$W_4$ vs $\lambda$**
+
+<img src="results//W4.png" width="600">
