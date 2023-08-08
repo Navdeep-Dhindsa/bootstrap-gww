@@ -57,6 +57,7 @@ main ()
 	}
 
       zgeev_ (&nn, &nn, &c1, Elm, &c1, E, dd, &c3, dd, &c3, cc, &c2, cc, &k);
+      // Arguments in this LAPACK routine not nicely defined, will be updated. 
 
       signal = 1;
       for (j = 0; j < N; j++)
