@@ -7,15 +7,13 @@ g++ --std=c++11  *.cpp -o code -llapack -lblas
 
 echo ==== Running the code ====
 ./code
-echo ==== Plotting ====
 
+echo ==== Plotting ====
 mv data.txt K.txt
 grep "" K.txt | awk '{if($3==1) print $2,$1}' >> final.txt
-
 gnuplot boot.p
 epstopdf K.eps
-
 mv final.txt K.dat
-wait 
 
+wait 
 echo Done
