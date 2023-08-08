@@ -32,3 +32,5 @@ Result for Wilson loop and and second winding:
 **$W_4$ vs $\lambda$**
 
 <img src="results//W4.png" width="600">
+
+> The dots in the plots represent missing data.
