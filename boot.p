@@ -1,4 +1,4 @@
-set terminal postscript eps enhanced color font "arial,18"
+set terminal postscript eps enhanced color font "arial,18" 
 set output 'K.eps'
 
 set key spacing 1.5
