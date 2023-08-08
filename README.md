@@ -33,4 +33,4 @@ Result for Wilson loop and and higher windings:
 
 <img src="results//W4.png" width="600">
 
-> The dots in the plots represent missing data.
+> The white dots in the shaded region represent missing data.
