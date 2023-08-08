@@ -9,7 +9,7 @@ Control size of positivity matrix by changing **N** in code, where N = K + 1, wh
 
 The positivity of matrix is checked by checking how eigenvalues are behaving with the help of _LAPACK_ 
 
-> Run time of code for say 1 million sweeps is less than 10 seconds for K = 6
+> Run time of code for say 1 million data points is less than 10 seconds for K = 6
 
 Any suggestions : Write to me navdeep.s.dhindsa@gmail.com 
 
