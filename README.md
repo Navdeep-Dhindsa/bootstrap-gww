@@ -13,9 +13,9 @@ The positivity of matrix is checked by checking how eigenvalues are behaving wit
 
 Any suggestions : Write to me navdeep.s.dhindsa@gmail.com 
 
-Next step is to improve it by trying other form of positivity matrix
+**I am now trying to use this idea for different matrix models, if you have any more ideas around it, ping me at above email**
 
-Result for Wilson loop and and second winding: 
+Result for Wilson loop and and higher windings: 
 
 **W vs $\lambda$**
 
